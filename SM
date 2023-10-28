@@ -1,0 +1,222 @@
+Sample LinkedIn Posts:
+
+is programmatic SEO a viable strategy that provides actual business value or just a fancy trick?
+
+That's what I was thinking back in November when we were urged by leadership to explore that strategy.
+
+at the same time, I got inspired by the initial breakthrough posts by Emilia Korczynska. What stood out was that anyone could do it in a spreadsheet & no fancy tools were needed.
+
+though... maybe you have to be a bit of a spreadsheet nerd.
+
+After launching 5 different campaigns this past year, it turns out, programmatic SEO is not a strategy, but an operational mindset.
+
+It's also not a smoking gun to your traffic problems.
+
+But it works!
+
+I'd love to share the thoughts behind these campaigns and maybe a small peak at the results (yes, they bring in real conversions & traffic at a not-insignificant rate).
+
+But first, what does everyone want to know about?
+
+---------------
+
+After iterating on 2 versions of partial programmatic builds, we finally launched our first true programmatic build in March. 
+
+This one
+
+For this one, we launched 300 page
+
+
+how much business value has programmatic SEO brought us so far?
+
+With approximately 400 pages of programmatic content published from March-April, in May, these pages generated 7000 visits per month and currently convert around 2%. Note that there are still approximately 10% of the pages not indexed. 
+
+Does this mean we’re going all-in on programmatic and you should too? 
+
+No.
+
+The performance of these two programmatic campaigns collectively does not exceed the performance of one of our top 10, or even top 20 articles. 
+
+This goes to show you that
+
+The benefit of the programmatic publication is the ability to capture that last 20% of the opportunities that we wouldn’t have otherwise targeted with bespoke content. 
+
+
+
+—---
+
+
+The need for programmatic strategy came about because we had launched 1000s of pages with very little or thin content and the performance of that sub-folder was poor. However, the keyword opportunity was hardly enough to justify bespoke content. 
+
+
+
+—--
+
+how did we come to validate programmatic SEO?
+
+By testing an MVP on another site.
+
+in Dec/Jan, I worked on what I call a “partial-programmatic model” for a website that ClickUp had acquired. This site got decent traffic but growth was flatlining because we were not given any content or development resources.
+
+the months prior, we tried to grow the site with guest posts and a few articles written in-house, but the publishing cadence wasn’t fast enough. 
+
+There was also the question of why we would invest significant content resources in this website, when we could achieve much better, predictable returns by investing into ClickUp directly. 
+
+With these constraints, the programmatic approach seemed to be a great answer - it would not distract our content team and would allow us to publish many articles at once. Plus, if it worked, we had unlocked a new growth lever.
+
+First, we took 23 BOFU keywords which could re-use each other’s content. 
+
+Then, we created a database of content. Afterwards, I developed an “Article Builder” (screenshot in this post) to compile these into individual coherent pieces, which could then be copy-pasted into a doc & added into the CMS (hence the name, “partial programmatic method”)
+
+It took a couple days to publish all 23 articles, but within a few weeks, we saw 10 pages rank in the top positions and all articles indexed. Google had treated it like any other piece we had published.
+
+What did this mean? Duplicate content for us was not a concern if the inputs are high quality & the method thoughtful. 
+
+We could take these learnings over to ClickUp, knowing that results could only be better. 
+
+PS: Four months later these pages continue to see over 30% growth month over month, with over 8% click through rate and 20% conversion rate to ClickUp. 
+
+How do you start testing an MVP for programmatic?
+what does an MVP for a programmatic model look like? 
+
+I started testing programmatic SEO first partially, meaning that there were still manual components. 
+
+From ClickUp’s blog I knew there were certain content types we wanted to produce at least 30 of that could drive significant traffic and sign ups. 
+
+We could not involve our engineers until we could reliably create content we knew was going to bring ROI. 
+
+—--
+
+Let me tell you a story. 
+
+In November, I got the chance to manage a different website which ClickUp owned. And this is what I was told:
+
+“We need to focus all our content & writing efforts on the main ClickUp blog, because that’s where we have the most ROI. That’s why we’re not going to invest in any content writing or engineers on this new website until we can prove that we can grow the site.”
+
+I knew it was the perfect time to try out a programmatic build. 
+
+The website was not built on wordpress and we did not have any engineering support at the time. Luckily, I had the help of an operation assistant.
+
+
+i became interested in programmatic strategies because of constraints placed on our team.
+
+
+
+At the time, ClickUp purchased a website and our team was placed in charge of growing it. With all the other duties we had, we could only focus on this site in a limited capacity. 
+
+
+
+with no writers, no engineers, and basically no resources, we had to figure out how to publish content in an efficient manner. 
+
+
+
+Creating the framework for programmatic execution takes a lot of upfront work. 
+
+
+—----
+
+Why do I not subscribe to “single-shot blog” creation with programmatic strategies? 
+
+There’s a couple of things wrong with the current prescribed way of using generative AI for article generation.
+
+The conventional method has everyone telling their favorite AI tool “generate a blog post”, getting a crappy 500-1000 word article, then augmenting it with a few “continue” or “elaborate” prompts to get to the “standard 2000 words required.”
+
+Then, an editor will swoop in, spend a few hours editing it, and it theoretically would have saved many hours.
+
+There’s a few things wrong with that.
+
+You have no competitive advantage
+
+—----------
+
+Should I use AI or bespoke content when operating a programmatic model? What should fill my programmatic databases?
+
+At ClickUp, our programmatic content contains probably 80% AI content plus 20% bespoke content with dynamic text insertion. This ensures that attributes such as the brand description does not contain inaccuracies, but context around that to fulfill the searcher’s intent is varied and adds value. 
+
+Cost to Rank in Content SEO
+
+When considering whether to take a programmatic or bespoke route in content creation, you might need to think about the cost to rank, in pure content terms. 
+
+The gold standard of content SEO lies in bespoke content - articles carefully curated, researched & written by great writers and edited by great editors. If done well and executed according to sound strategies, these content assets will perform well, and be difficult to beat. 
+
+Let’s say that the “cost to rank” is a $1000 threshold (meaning, you need to spend at least $1000 in “content quality” - writing, editing, publishing, etc in order to compete in the top SERPs).
+
+But, what if you’re looking to publish articles, where the “cost to rank” is a mere $20. It would be an inefficient use of resources to pay your writer
+
+
+In this situation, if you’ve invested $1001 into this piece, you’ve made the perfect investment and maximized possible ROI from this keyword.
+
+However, just like overinvesting , underinvesting will result in a complete 100% waste. 
+
+While there’s no accurate measure of cost to rank, the mental model is important to keep in your mind.
+
+For example, if I were to try to go after programmatic keywords: “CRM for X” I’d look at several variants and notice that it’s not a good idea to programmatically generate these,
+
+
+Programmatic SEO – you have some control of the content format, but the content is duplicate and contains very little variability. 
+
+AI SEO - you have variety but zero control. but zero competitive advantage
+
+
+
+I’ve come across 3 constraints in traditional programmatic methods. 
+
+
+
+
+
+
+I’ve lately come across spreadsheet tools that integrate with ChatGPT etc
+
+In those tools, I commonly see people saving elaborate prompts trying to tailor directions to the AI. The problem I’ve come across is that the AI is inconsistent.
+
+The customization problem in scaled content:
+
+
+
+
+
+
+
+There’s one hurdle we always face when executing on programmatic content creation.
+
+content duplication
+
+At least, that’s what we all think is a hurdle - that Google does not like duplicate content.
+
+
+
+
+while coming up with the operational process for programmatic content creation, we developed the Content Module Method, a middle ground between traditional programmatic operation and one-shot AI articles.
+
+Traditional programmatic publication requires the use of rich databases, pulling content into a specified framework designed by the operator. There’s a lot of setup and constraints in order to make it work, and in the end, it’s mostly duplicate content.
+
+The pros of this is that you can design your own content format - headers, the content sections, the call to actions, and related content… whatever your imagination. 
+
+
+On the other spectrum, AI tools offering full-length articles such as Byword or SurferSEO don’t require any content framework engineering, and at first glance seem to be the ideal solution to publish articles en-masse.
+
+The problem with one-shot AI blog posts from these tools is that you’re left to trust the opinion of the tool of choice. If you tell Byword to write an article on “TKTK”, you’re getting what Byword thinks is good SEO for that article. You have zero say in shaping the article that’s produced. These tools are opinions of the developers themselves, who may or may not have the same goals as you. 
+
+Of course, it also goes without saying that if you publish directly from these tools, you build zero competitive advantage. 
+
+That’s why the Content Module Method combines the best of both worlds - the variability & scale of AI generation, along with the control and customizability of programmatic models. 
+
+The key lies in creating a database of AI prompts themselves, where you can get predictable copy in the right format each time. 
+
+More on engineering AI prompts to fit a programmatic model later. 
+
+
+
+—--------
+
+How do you add variation to programmatic content?
+
+A big problem with programmatic content is that content is duplicated over and over again. Especially in articles you basically get 1000 words of duplicated content. 
+
+In our first iteration, we solved this problem with randomization.
+
+Let’s say we need to make 50 articles about how ClickUp is the best software for different use cases, all within the same feature family. You have this content column: “ClickUp description” that you’re going to programmatically include in every article.
+
+Rather than creating 1 blurb, you might ask an AI tool to re-write the blurb 3 times in different and varying ways. Now, your database has 4 different Clickup descriptions. 
+
